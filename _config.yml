@@ -1,0 +1,28 @@
+name: jeremystanley
+favicon: null
+layout_spectrum: 0.8987640086561441
+typography_spectrum: 0.15766126499511302
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.05864863027818501
+  lightness: 0.5640294603072107
+  saturation: 0.4612328519579023
+  rhythmicContrast: 0.16586257051676512
+purpose: []
